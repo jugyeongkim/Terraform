@@ -1,0 +1,3 @@
+.terraform
+*.fstate
+*.ftstate.backup
